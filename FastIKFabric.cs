@@ -8,7 +8,7 @@ namespace DitzelGames.FastIK
     /// <summary>
     /// Fabrik IK Solver
     /// </summary>
-    public class FastIKFabric : MonoBehaviour
+    public class FastIKFabric.cs : MonoBehaviour
     {
         /// <summary>
         /// Chain length of bones
@@ -247,4 +247,5 @@ namespace DitzelGames.FastIK
         }
 
     }
+
 }
